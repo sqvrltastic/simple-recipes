@@ -1,0 +1,184 @@
+/* CSS Document */
+
+@charset "UTF-8";
+
+/* General styling */
+
+body {
+  background-color: white;
+  font-family: "Courier New", "Courier", monospace;
+  font-size: medium;
+  color: black;
+}
+
+h1 {
+  font-size: larger;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+  text-align: center;
+  margin: 0 auto 1rem;
+}
+
+h2 {
+  font-size: medium;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+}
+
+h3 {
+  font-size: medium;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+li::marker {
+  content: "\2010 \0020"/ "";
+}
+
+::selection {
+  background-color: darkgray;
+  color: white;
+}
+
+hr {
+  margin: 1rem 0;
+  border: none;
+  color: black;
+}
+
+hr::before {
+  content: "--- *** ---";
+  display: block;
+  text-align: center;
+}
+
+b,
+strong {
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+}
+
+.explanation {
+  display: inline;
+}
+
+.spoiler {
+  background-color: darkgray;
+  color: darkgray;
+}
+
+.spoiler:hover {
+  background-color: transparent;
+  color: black;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.border {
+  border: 0.01rem;
+  border-color: black;
+  border-style: solid;
+}
+
+.lastp {
+  margin: 1rem 0 0;
+}
+
+/* Top */
+
+header {
+  inline-size: fit-content;
+  margin: 1.5rem auto 1rem;
+}
+
+/* Main layout */
+
+.flexbox {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.left {
+  inline-size: fit-content;
+  block-size: fit-content;
+  padding: 1rem;
+  flex-shrink: 0;
+  position: absolute;
+  transform: translateX(-22.5rem);
+}
+
+.center {
+  min-block-size: 20rem;
+  inline-size: 30rem;
+  padding: 1rem;
+  align-self: center;
+}
+
+/* Styling for desktop navbar */
+
+.left > strong {
+  margin: 0;
+}
+
+.left > ul {
+  margin: 1rem 0 0;
+}
+
+.mobilenav {
+  display: none;
+}
+
+/* Menu styling */
+
+.menu > li::marker {
+  content: "\003E \0020"/ "";
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover,
+.menu a:focus {
+  text-decoration: underline;
+}
+
+/* Other */
+
+.btn {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+pre > code {
+  display: block;
+  padding: 1rem;
+  margin: 0;
+  background-color: whitesmoke;
+  border-radius: 0.3rem;
+  font-size: 0.7rem;
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.last-upd > h2,
+.last-upd > p {
+  display: inline;
+}
+
+/* Bottom */
+
+footer {
+  font-size: 0.7rem;
+  inline-size: fit-content;
+  margin: 0 auto;
+}
