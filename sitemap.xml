@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/drinks/banana-vanilla-milkshake.html</loc>
+    <loc>http://localhost:1313/simple-recipes/drinks/banana-vanilla-milkshake.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/desserts/cherry-pie.html</loc>
+    <loc>http://localhost:1313/simple-recipes/desserts/cherry-pie.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/main-course/chicken-pilaf.html</loc>
+    <loc>http://localhost:1313/simple-recipes/main-course/chicken-pilaf.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/desserts/chocolate-crinkle-cookies.html</loc>
+    <loc>http://localhost:1313/simple-recipes/desserts/chocolate-crinkle-cookies.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/cinnamon-rolls.html</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/cinnamon-rolls.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/cornbread-muffins-with-chard.html</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/cornbread-muffins-with-chard.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/desserts/</loc>
+    <loc>http://localhost:1313/simple-recipes/desserts/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/drinks/</loc>
+    <loc>http://localhost:1313/simple-recipes/drinks/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/salads/greek-salad.html</loc>
+    <loc>http://localhost:1313/simple-recipes/salads/greek-salad.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/</loc>
+    <loc>http://localhost:1313/simple-recipes/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/drinks/hot-chocolate.html</loc>
+    <loc>http://localhost:1313/simple-recipes/drinks/hot-chocolate.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/main-course/</loc>
+    <loc>http://localhost:1313/simple-recipes/main-course/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/piroshki.html</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/piroshki.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/priganice.html</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/priganice.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/salads/</loc>
+    <loc>http://localhost:1313/simple-recipes/salads/</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/main-course/teriyaki-chicken-bowl.html</loc>
+    <loc>http://localhost:1313/simple-recipes/main-course/teriyaki-chicken-bowl.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/drinks/turkish-coffee.html</loc>
+    <loc>http://localhost:1313/simple-recipes/drinks/turkish-coffee.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/updates.html</loc>
+    <loc>http://localhost:1313/simple-recipes/updates.html</loc>
   </url><url>
-    <loc>https://sqvrltastic.github.io/simple-recipes/pastry/zucchini-pancakes-oladyi.html</loc>
+    <loc>http://localhost:1313/simple-recipes/pastry/zucchini-pancakes-oladyi.html</loc>
   </url>
 </urlset>

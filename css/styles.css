@@ -32,8 +32,15 @@ h3 {
 }
 
 a {
-  text-decoration: underline;
   color: black;
+}
+
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: red;
 }
 
 li::marker {
@@ -140,15 +147,6 @@ header {
 
 .menu > li::marker {
   content: "\003E \0020"/ "";
-}
-
-.menu a {
-  text-decoration: none;
-}
-
-.menu a:hover,
-.menu a:focus {
-  text-decoration: underline;
 }
 
 /* Other */
