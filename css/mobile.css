@@ -2,7 +2,7 @@
 @charset "UTF-8";
 
 /* CSS for mobile */
-@media (max-width: 1280px) {
+@media (max-width: 1080px) {
   .left {
     display: none;
   }
