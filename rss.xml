@@ -7,10 +7,21 @@
         </description>
         <link>https://sqvrltastic.github.io/simple-recipes</link>
         <lastBuildDate>
-            Wed, 20 Nov 2024 14:12:54 +0000
+            Sun, 24 Nov 2024 16:58:46 +0000
         </lastBuildDate>
         <language>en-us</language>
-
+        <item>
+            <title>November 24th 2024</title>
+            <description>
+                Implemented some minor improvements and fixes for the website.
+                All external links now open in a new browser window.
+                Adding to this, also changed the 88x31 button's code that was meant for embedding so
+                that when a user clicks on it, it opens the link in a new window as well.
+            </description>
+            <pubDate>
+                Sun, 24 Nov 2024 16:58:46 +0000
+            </pubDate>
+        </item>
         <item>
             <title>November 20th 2024</title>
             <description>
@@ -22,6 +33,5 @@
                 Wed, 20 Nov 2024 14:12:54 +0000
             </pubDate>
         </item>
-
     </channel>
 </rss>

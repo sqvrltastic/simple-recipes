@@ -156,14 +156,19 @@ header {
   margin-bottom: 1rem;
 }
 
-pre > code {
+.code {
+  max-inline-size: 13.5rem;
+  block-size: 3.5rem;
+  padding: 0.5rem;
+  border: solid 0.01rem black;
+  background-color: ivory;
+  overflow-y: scroll;
+  font-size: 0.6rem;
+}
+
+code {
   display: block;
-  padding: 1rem;
-  margin: 0;
-  background-color: whitesmoke;
-  border-radius: 0.3rem;
-  font-size: 0.7rem;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Courier New", "Courier", "Liberation Mono", monospace;
   white-space: pre-wrap;
   word-break: break-all;
 }
