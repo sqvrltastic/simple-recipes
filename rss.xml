@@ -9,37 +9,29 @@
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <ttl>1440</ttl>
         <lastBuildDate>
-            Sat, 30 Nov 2024 09:05:33 +0000
+            Sat, 30 Nov 2024 09:24:21 +0000
         </lastBuildDate>
         <language>en-us</language>
         <item>
-            <title>November 30th 2024</title>
+            <title>New recipe: Finnish blueberry pie - Mustikkapiirakka</title>
             <link>
-                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html
-            </link>
+                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html</link>
+            <description>Published new recipe - Finnish blueberry pie (Mustikkapiirakka)</description>
+            <pubDate>
+                Sat, 30 Nov 2024 09:24:21 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>November 30th 2024</title>
             <description>
                 <p>
-                    Published a new recipe -
-                <![CDATA[ 
-                    <a href="https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html"
-                    >Finnish blueberry pie.
-                    </a> 
-                ]]>
-                </p>
-                <p>
-                    Also made some changes to website's CSS style sheet to
-                    make it easier to maintain and cleaned up some messy code.
-                </p>
-                <p>
-                    Additionally, rewrote some bits of my zucchini pancakes recipe,
-                    nothing major or significant though.
-                </p>
-                <p>
-                    Aaand some other minor technical fixes here and there...
-                </p>
-                <p>
-                    Additionally, I prettied up this RSS feed text formatting a bit.
-                </p>
+                Published a new recipe - Finnish blueberry pie.
+                Also made some changes to website's CSS style sheet to
+                make it easier to maintain and cleaned up some messy code.
+                Additionally, rewrote some bits of my zucchini pancakes recipe,
+                nothing major or significant though.
+                Aaand some other minor technical fixes here and there...
+                Additionally, I prettied up this RSS feed text formatting a bit.
             </description>
             <pubDate>
                 Sat, 30 Nov 2024 09:05:33 +0000
@@ -48,17 +40,11 @@
         <item>
             <title>November 24th 2024</title>
             <description>
-                <p>
-                    Implemented some minor improvements and fixes for the website.
-                </p>
-                <p>
-                    All external links now open in a new browser window.
-                </p>
-                <p>
-                    Adding to this, also changed the 88x31
-                    button's code that was meant for embedding so that when a user clicks on it, it
-                    opens the link in a new window as well.
-                </p>
+                Implemented some minor improvements and fixes for the website.
+                All external links now open in a new browser window.
+                Adding to this, also changed the 88x31 button's code that
+                was meant for embedding so that when a user clicks on it, it
+                opens the link in a new window as well.
             </description>
             <pubDate>
                 Sun, 24 Nov 2024 16:58:46 +0000
@@ -67,12 +53,9 @@
         <item>
             <title>November 20th 2024</title>
             <description>
-                <p>
-                    This website was created on November 20th, 2024, hurray! It's built purely with
-                    HTML and CSS and with the help of HUGO website generator. Happy cooking and
-                    website
-                    making everyone!!!
-                </p>
+                This website was created on November 20th, 2024, hurray! It's built purely with
+                HTML and CSS and with the help of HUGO website generator. Happy cooking and
+                website making everyone!!!
             </description>
             <pubDate>
                 Wed, 20 Nov 2024 14:12:54 +0000
