@@ -13,10 +13,14 @@
         </lastBuildDate>
         <language>en-us</language>
         <item>
-            <title>New recipe: Finnish blueberry pie - Mustikkapiirakka</title>
+            <title>Finnish blueberry pie - Mustikkapiirakka</title>
             <link>
-                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html</link>
-            <description>Published new recipe - Finnish blueberry pie (Mustikkapiirakka)</description>
+                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html
+            </link>
+            <description>
+                Finnish blueberry pie a.k.a. mustikkapiirakka, made with fresh or frozen
+                blueberries, cream and mixed rye flour.
+            </description>
             <pubDate>
                 Sat, 30 Nov 2024 09:24:21 +0000
             </pubDate>
