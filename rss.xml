@@ -11,7 +11,15 @@
             rel="self"
             type="application/rss+xml"
         />
+        <image>
+            <url>https://sqvrltastic.github.io/simple-recipes/favicon.ico</url>
+            <title>Simple Recipes</title>
+            <link>https://sqvrltastic.github.io/simple-recipes/rss.xml</link>
+            <width>48</width>
+            <height>48</height>
+        </image>
         <ttl>1440</ttl>
+        <webMaster>sqvrltastic@gmail.com</webMaster>
         <lastBuildDate>
             Sat, 30 Nov 2024 09:24:21 +0000
         </lastBuildDate>
