@@ -2,10 +2,10 @@
 <rss version="2.0">
     <channel>
         <title>Simple Recipes</title>
-        <link>https://sqvrltastic.github.io/simple-recipes</link>
         <description>
             A no ads, no nonsense simple cooking website featuring recipes everyone can make.
         </description>
+        <link>https://sqvrltastic.github.io/simple-recipes</link>
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <ttl>1440</ttl>
         <lastBuildDate>
@@ -14,13 +14,13 @@
         <language>en-us</language>
         <item>
             <title>Finnish blueberry pie - Mustikkapiirakka</title>
-            <link>
-                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html
-            </link>
             <description>
                 Finnish blueberry pie a.k.a. mustikkapiirakka, made with fresh or frozen
                 blueberries, cream and mixed rye flour.
             </description>
+            <link>
+                https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html
+            </link>
             <pubDate>
                 Sat, 30 Nov 2024 09:24:21 +0000
             </pubDate>
@@ -34,7 +34,6 @@
                 Additionally, rewrote some bits of my zucchini pancakes recipe,
                 nothing major or significant though.
                 Aaand some other minor technical fixes here and there...
-                Additionally, I prettied up this RSS feed text formatting a bit.
             </description>
             <pubDate>
                 Sat, 30 Nov 2024 09:05:33 +0000
