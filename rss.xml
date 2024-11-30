@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Simple Recipes</title>
         <description>
             A no ads, no nonsense simple cooking website featuring recipes everyone can make.
         </description>
         <link>https://sqvrltastic.github.io/simple-recipes</link>
+        <atom:link
+            href="https://sqvrltastic.github.io/simple-recipes/rss.xml"
+            rel="self"
+            type="application/rss+xml"
+        />
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <ttl>1440</ttl>
         <lastBuildDate>
