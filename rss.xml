@@ -12,6 +12,7 @@
             Sat, 30 Nov 2024 09:24:21 +0000
         </lastBuildDate>
         <language>en-us</language>
+
         <item>
             <title>Finnish blueberry pie - Mustikkapiirakka</title>
             <description>
@@ -25,6 +26,7 @@
                 Sat, 30 Nov 2024 09:24:21 +0000
             </pubDate>
         </item>
+
         <item>
             <title>November 30th 2024</title>
             <description>
@@ -35,10 +37,12 @@
                 nothing major or significant though.
                 Aaand some other minor technical fixes here and there...
             </description>
+            <link>https://sqvrltastic.github.io/simple-recipes/updates.html</link>
             <pubDate>
                 Sat, 30 Nov 2024 09:05:33 +0000
             </pubDate>
         </item>
+
         <item>
             <title>November 24th 2024</title>
             <description>
@@ -48,10 +52,12 @@
                 was meant for embedding so that when a user clicks on it, it
                 opens the link in a new window as well.
             </description>
+            <link>https://sqvrltastic.github.io/simple-recipes/updates.html</link>
             <pubDate>
                 Sun, 24 Nov 2024 16:58:46 +0000
             </pubDate>
         </item>
+
         <item>
             <title>November 20th 2024</title>
             <description>
@@ -59,9 +65,11 @@
                 HTML and CSS and with the help of HUGO website generator. Happy cooking and
                 website making everyone!!!
             </description>
+            <link>https://sqvrltastic.github.io/simple-recipes/updates.html</link>
             <pubDate>
                 Wed, 20 Nov 2024 14:12:54 +0000
             </pubDate>
         </item>
+
     </channel>
 </rss>
