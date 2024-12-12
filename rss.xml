@@ -14,9 +14,19 @@
         <ttl>1440</ttl>
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <lastBuildDate>
-            Sat, 30 Nov 2024 09:24:21 +0000
+            Thu, 12 Dec 2024 13:38:50 +0000
         </lastBuildDate>
         <language>en-us</language>
+        
+        <item>
+            <title>December 12th 2024</title>
+            <description>
+                Fixed a ton of minor grammatical errors and typos. Google docs and VSCode LTeX+ to the rescue! 
+            </description>
+            <pubDate>
+                Thu, 12 Dec 2024 13:38:50 +0000
+            </pubDate>
+        </item>
 
         <item>
             <guid>https://sqvrltastic.github.io/simple-recipes/desserts/finnish-blueberry-pie-mustikkapiirakka.html</guid>
@@ -35,9 +45,9 @@
             <title>November 30th 2024</title>
             <description>
                 Published a new recipe - Finnish blueberry pie.
-                Also made some changes to website's CSS style sheet to
+                Also made some changes to the website's CSS style sheet to
                 make it easier to maintain and cleaned up some messy code.
-                Additionally, rewrote some bits of my zucchini pancakes recipe,
+                Additionally, I rewrote some bits of my zucchini pancakes recipe,
                 nothing major or significant though.
                 Aaand some other minor technical fixes here and there...
             </description>
