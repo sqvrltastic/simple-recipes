@@ -3,10 +3,9 @@
 
 /* CSS for print */
 @media print {
-  .logo,
-  .left,
-  details,
-  summary,
+  header > pre,
+  nav,
+  .mobilenav,
   footer {
     display: none;
   }
@@ -18,9 +17,6 @@
 
   .center {
     width: 100%;
-  }
-
-  .border {
     border-style: none;
   }
 
