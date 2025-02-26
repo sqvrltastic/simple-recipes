@@ -14,9 +14,19 @@
         <ttl>1440</ttl>
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <lastBuildDate>
-            Wed, 15 Jan 2025 10:45:14 +0000
+            Wed, 26 Feb 2025 16:47:55 +0000
         </lastBuildDate>
         <language>en-us</language>
+
+        <item>
+            <title>Website update #6</title>
+            <description>
+                Minor layout changes and cleaned up and optimized the code.
+            </description>
+            <pubDate>
+                Wed, 26 Feb 2025 16:47:55 +0000
+            </pubDate>
+        </item>
 
         <item>
             <guid>https://sqvrltastic.github.io/simple-recipes/salads/imitation-crab-sticks-salad.html</guid>
