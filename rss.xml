@@ -14,9 +14,19 @@
         <ttl>1440</ttl>
         <webMaster>sqvrltastic@gmail.com</webMaster>
         <lastBuildDate>
-            Wed, 26 Feb 2025 16:47:55 +0000
+            Fri, 28 Feb 2025 16:10:53 +0000
         </lastBuildDate>
         <language>en-us</language>
+
+        <item>
+            <title>Website update #7</title>
+            <description>
+                Added photos! Most recipes now have a picture of the food in question.
+            </description>
+            <pubDate>
+                Fri, 28 Feb 2025 16:10:53 +0000
+            </pubDate>
+        </item>
 
         <item>
             <title>Website update #6</title>
